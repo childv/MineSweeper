@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="buttonRestart">Restart</string>
+    <string name="buttonTry">Try a Field</string>
+    <string name="buttonPlace">Place a Flag</string>
+    <string name="titleWelcome">Welcome to Mine Sweeper</string>
+    <string name="text_win">Congratulations, you won!
+        Press the RESTART button to play again.</string>
+    <string name="text_timer">Round Time: %s</string>
+    <string name="text_mine_loss">Oh no, you triggered a mine!
+        Press the RESTART button to try again.</string>
+    <string name="text_flag_loss">Oh no, you misplaced a flag!
+        Press the RESTART button to try again.</string>
+    <string name="tag_touch">TAG_TOUCH</string>
+    <string name="log_touched">Touched square at %1$d, %2$d</string>
+    <string name="log_flagged">Flagged %1$d, %2$d</string>
+</resources>
